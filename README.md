@@ -88,10 +88,10 @@ Install the required libraries:
 ```bash
 pip install numpy matplotlib
 
-## Contributions
+### Contributions
 
 Ideas, improvements, and extensions are welcome. If you find a way to make the simulator more accurate, efficient, or capable, feel free to contribute.
 
-## Author
+### Author
 
 Daniel Durodola 
