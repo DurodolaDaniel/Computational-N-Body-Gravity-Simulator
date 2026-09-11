@@ -23,27 +23,7 @@ The simulator computes the gravitational acceleration of each body from the comb
 
 ## Physical Model
 
-The gravitational interaction between two bodies is described by Newton's law of universal gravitation:
-
-\[
-\mathbf{F}_{ij}
-=
--G\frac{m_i m_j}{|\mathbf{r}_i-\mathbf{r}_j|^3}
-(\mathbf{r}_i-\mathbf{r}_j)
-\]
-
-The acceleration of body \(i\) is obtained from the resultant gravitational influence of all other bodies:
-
-\[
-\mathbf{a}_i
-=
--G\sum_{j\neq i}
-m_j
-\frac{\mathbf{r}_i-\mathbf{r}_j}
-{|\mathbf{r}_i-\mathbf{r}_j|^3}
-\]
-
-The equations of motion are then integrated numerically to obtain the positions and velocities of the bodies as functions of time.
+The simulator uses Newtonian gravity. Each body experiences a gravitational acceleration resulting from the combined gravitational influence of every other body in the system. These accelerations are numerically integrated over discrete time steps to determine the evolving positions and velocities of the bodies.
 
 ## Numerical Method
 
