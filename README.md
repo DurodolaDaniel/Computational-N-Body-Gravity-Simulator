@@ -94,3 +94,5 @@ Ideas, improvements, and extensions are welcome. If you find a way to make the s
 ## Author
 
 Daniel Durodola 
+
+<img width="1280" height="664" alt="Comparison-2d" src="https://github.com/user-attachments/assets/cc6ea24c-86c4-48e7-a83f-e242f695bf3c" />
