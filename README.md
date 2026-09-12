@@ -97,3 +97,6 @@ Daniel Durodola
 
 <img width="1280" height="664" alt="comparison animation" src="https://github.com/user-attachments/assets/b4e4cdfc-65e4-4e6b-8eb3-f684436020c4" />
 
+<img width="1280" height="664" alt="sun-earth-mars-3d" src="https://github.com/user-attachments/assets/58830550-1e02-47a7-9483-7009dbce9e91" />
+
+<img width="1280" height="664" alt="1000 bodies" src="https://github.com/user-attachments/assets/a4004b88-fa7e-4747-a864-5b6e0efa5a27" />
