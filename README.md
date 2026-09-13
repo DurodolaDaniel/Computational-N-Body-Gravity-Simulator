@@ -95,6 +95,10 @@ Ideas, improvements, and extensions are welcome. If you find a way to make the s
 
 Daniel Durodola 
 
-<img width="674" height="661" alt="WhatsApp Image 2026-09-13 at 08 56 51" src="https://github.com/user-attachments/assets/58be328a-76e1-47ec-8c04-413c3bf230
+## Simulations
+
+<img width="674" height="661" alt="WhatsApp Image 2026-09-13 at 08 56 51" src="https://github.com/user-attachments/assets/a7db7758-1153-4b79-a87f-ed3f60bd1a66" />
 
 <img width="1280" height="664" alt="comparison animation" src="https://github.com/user-attachments/assets/b4e4cdfc-65e4-4e6b-8eb3-f684436020c4" />
+
+<img width="1280" height="664" alt="sun-earth-mars-3d" src="https://github.com/user-attachments/assets/7fe851fc-94a0-449e-a522-8aeb7164fd73" />
