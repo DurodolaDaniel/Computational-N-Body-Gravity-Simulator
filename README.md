@@ -95,6 +95,6 @@ Ideas, improvements, and extensions are welcome. If you find a way to make the s
 
 Daniel Durodola 
 
-<img width="1280" height="664" alt="comparison animation" src="https://github.com/user-attachments/assets/b4e4cdfc-65e4-4e6b-8eb3-f684436020c4" />
+<img width="674" height="661" alt="WhatsApp Image 2026-09-13 at 08 56 51" src="https://github.com/user-attachments/assets/58be328a-76e1-47ec-8c04-413c3bf230
 
-<img width="674" height="661" alt="WhatsApp Image 2026-09-13 at 08 56 51" src="https://github.com/user-attachments/assets/58be328a-76e1-47ec-8c04-413c3bf23095" />
+<img width="1280" height="664" alt="comparison animation" src="https://github.com/user-attachments/assets/b4e4cdfc-65e4-4e6b-8eb3-f684436020c4" />
