@@ -97,6 +97,4 @@ Daniel Durodola
 
 <img width="1280" height="664" alt="comparison animation" src="https://github.com/user-attachments/assets/b4e4cdfc-65e4-4e6b-8eb3-f684436020c4" />
 
-<img width="1280" height="664" alt="sun-earth-mars-3d" src="https://github.com/user-attachments/assets/58830550-1e02-47a7-9483-7009dbce9e91" />
-
-<img width="1280" height="664" alt="1000 bodies" src="https://github.com/user-attachments/assets/a4004b88-fa7e-4747-a864-5b6e0efa5a27" />
+<img width="674" height="661" alt="WhatsApp Image 2026-09-13 at 08 56 51" src="https://github.com/user-attachments/assets/58be328a-76e1-47ec-8c04-413c3bf23095" />
